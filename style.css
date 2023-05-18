@@ -44,7 +44,7 @@ body{ font-family: Verdana, Geneva, Tahoma, sans-serif;}
 border-radius: 0; margin: auto;}
 #team .btn:hover{ color: #fff; background: #00a8ff;}
 #team .card{ border-radius: 0;}
-#team .card-body img{ width: 120px; height: 120px; border-radius: 50%; position: relative; top: -60px; z-index: 100;}
+#team .card-body img{ width: 120px; height: 120px; border-radius: 50%; position: relative; top: -60px; z-index: 1;}
 
 /* ---------------------------------
          SECTION  PRICING
